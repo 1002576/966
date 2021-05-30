@@ -18,3 +18,5 @@ older🔑|   ﷼     |andrioB.B| 🔑targt   |  🔓🔑   | Tele |007695| more 
 # section country as argien territories.
 # make choose one number form key saudi arebia ____ from six countries.
 # + = tow zero of key call country befor [number mobile with delet zero of mobile] and [befor number phone with detlet zero phone rigon interior key]
+# telephon international connection 800801020
+  if difficalte * conver inter national 69556957525 < 8008815020
