@@ -1,4 +1,5 @@
 # 966
 255 
 Tanzania key good conver to +966
-+255552414904
+55955552414904
+#shift f55
