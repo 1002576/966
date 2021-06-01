@@ -27,4 +27,8 @@ ________:_________:_________:__________:_________________________
 
 55955552414904
 #shift f55 <f00 <+ jejabyt
-https://www.nas.gov.qa/self-service/register/activate/5477a0b0-9abf-44e4-b665-640325647f70؟sp=portal.www.g
+https://www.nas.gov.qa/self-service/register/activate/5477a0b0-9abf-44e4-b665-640325647f70؟sp=portal
+# الكويت
+رقم البطاقة٦٦٦ _٩٧٩٦٦٩٩٩٩٩٦٩
+رمز خطاء ٥٩٥٥٥٥٥٥٦٩
+رمز إندفاع البايت ٣١.٧٦٧.٧٩٥.٧٩٣
