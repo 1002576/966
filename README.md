@@ -23,12 +23,13 @@ ________:_________:_________:__________:_________________________
 # بلد القسم .
 # make choose one number form key saudi arebia ____ from six countries.
 # + = سحب صفر من بلد الاتصال الرئيسي قبل [رقم الهاتف المحمول مع حذف صفر للهاتف المحمول] و [رقم الهاتف قبل رقم الهاتف بمفتاح detlet zero phone Ron interio00966
-646
 
-55955552414904
++9٦٦552414904
 #shift f55 <f00 <+ jejabyt
 https://www.nas.gov.qa/self-service/register/activate/5477a0b0-9abf-44e4-b665-640325647f70؟sp=portal
 # الكويت
 رقم البطاقة٦٦٦ _٩٧٩٦٦٩٩٩٩٩٦٩
 رمز خطاء ٥٩٥٥٥٥٥٥٦٩
 رمز إندفاع البايت ٣١.٧٦٧.٧٩٥.٧٩٣
+https://www.gold.co.uk/٦٩٥٤٦٩
+
