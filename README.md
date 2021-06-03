@@ -30,6 +30,9 @@ https://www.nas.gov.qa/self-service/register/activate/5477a0b0-9abf-44e4-b665-64
 # الكويت
 رقم البطاقة٦٦٦ _٩٧٩٦٦٩٩٩٩٩٦٩
 رمز خطاء ٥٩٥٥٥٥٥٥٦٩
-رمز إندفاع البايت ٣١.٧٦٧.٧٩٥.٧٩٣
-https://www.gold.co.uk/٦٩٥٤٦٩
+رمز سحب البايت ٣١.٧٦٧.٧٩٥.٧٩٣
+https://www.gold.co.uk/٦٣٥١رمز اندفاع البايت
 
+العامل الشرقي
+https://www.albassamitransport.com/services
+http://www.theebonline.com/2113553391
