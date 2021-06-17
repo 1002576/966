@@ -5,12 +5,12 @@ build.properties
 # generated java classes and java source files
 #   manually add any custom artifacts that can't be generated from the models
 #   http://confluence.jetbrains.com/display/MPSD25/HowTo+--+MPS+and+Git
-classes_gen
-source_gen
-source_gen.caches
+classes_gen 5510
+source_gen OB585/1433
+source_gen.caches/769 ob
 
 # generated test code and test results
-test_gen
-test_gen.caches
-TEST-*.xml
-junit*.properties
+test_gen تحديد رقم جوال دقيق
+test_gen.caches 05967658
+TEST-*.xml 099605666
+junit*.properties 0999789456
